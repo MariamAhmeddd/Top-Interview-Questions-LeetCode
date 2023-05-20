@@ -11,7 +11,7 @@ Welcome to my repository of solutions for LeetCode Top Interview Questions! This
 
 LeetCode problems are widely used during technical interviews at companies, this set of selected high-frequency interview problems can help you improve efficiently
 
-Feel free to browse through the categories and problems that interest you. You can also contribute your own solutions if you'd like!
+Feel free to browse through and problems that interest you. You can also contribute your own solutions if you'd like!
 
 ## Problems
 
