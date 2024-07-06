@@ -22,7 +22,7 @@ Feel free to browse through problems that interest you. You can also contribute 
 - [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [Solution](MedianofTwoSortedArrays.cpp)
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - [Solution](LongestPalindromicSubstring.cpp)  
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [Solution](ContainerWithMostWater.cpp)
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [Solution](MaximumSubarray.cpp)  
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [Solution1](MaximumSubarray.cpp) -[Solution2](MaximumSubarray2.cpp)   
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](ClimbingStairs.cpp) 
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - [Solution](LongestConsecutiveSequence.cpp)
 - [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - [Solution](MaximumProductSubarray.cpp)
