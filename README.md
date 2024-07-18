@@ -29,6 +29,6 @@ Feel free to browse through problems that interest you. You can also contribute 
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - [Solution](ContainsDuplicate.cpp)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - [Solution](ProductofArrayExceptSelf.cpp)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Solution](ValidAnagram.cpp)
-- [918. Maximum Sum Circular](https://leetcode.com/problems/maximum-sum-circular-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](MaximumSumCircular.cpp)  
-  
+- [918. Maximum Sum Circular](https://leetcode.com/problems/maximum-sum-circular-subarray/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](MaximumSumCircular.cpp)
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](MergeSortedArray.cpp)
 </details>
